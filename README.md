@@ -1,5 +1,7 @@
 # btcli
 
+[![ci](https://github.com/zg/btcli/actions/workflows/ci.yml/badge.svg)](https://github.com/zg/btcli/actions/workflows/ci.yml) [![Go Reference](https://pkg.go.dev/badge/github.com/zg/btcli.svg)](https://pkg.go.dev/github.com/zg/btcli) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 An application intended for use with the BitTorrent protocol.
 
 Implements bencode, `.torrent` parsing, HTTP tracker announces, the peer
